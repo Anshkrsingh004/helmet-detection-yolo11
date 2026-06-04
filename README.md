@@ -42,10 +42,10 @@ Augmentations:
 
 ## Results
 
-* Precision: XX%
-* Recall: XX%
-* F1 Score: XX%
-* mAP50: XX%
+* Precision: 85.58%
+* Recall: 84.6%
+* F1 Score: 85.2%
+* mAP50: 88.4%
 
 ## Project Workflow
 
